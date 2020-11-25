@@ -21,8 +21,9 @@ organizations:
 bio: Musings of a sports fanatic who happens to be interested in research.
 
 interests:
-- Medical Imaging Processing
-- Generative Deep Learning
+- Medical Image Processing
+- Generative Models
+- Bayesian Uncertainty Estimation
 
 education:
   courses:
@@ -72,7 +73,9 @@ social:
 # - Visitors
 ---
 
-I am a graduate student pursuing a Master’s degree in Electrical Engineering, specializing in medical imaging, at Ecole de Technologie Superieure (ETS), Montreal. My research interests include medical image processing and deep learning for medicine. I work on generative image modeling methods for the specific task of synthesizing medical images across different imaging modalities.
+[//]: # (I am a graduate student pursuing a Master’s degree in Electrical Engineering, specializing in medical imaging, at Ecole de Technologie Superieure (ETS), Montreal. My research interests include medical image processing and deep learning for medicine. I work on generative image modeling methods for the specific task of synthesizing medical images across different imaging modalities.)
+
+I am second year Master's student at the Biomedical Information Processing Lab (LATIS), Ecole de Technologie Superieure, Montreal. My research focuses on the application of unsupervised volume translation methods for generating 3D models of Scoliotic spines using generative adversarial networks (GANs). My broader goal is to make deep learning models better understandable and more interpretable for their application in real clinical settings. I believe that quantifying uncertainty through the mathematically principled Bayesian techniques could help in achieving that.
 
 Occasionally, I try to improve the clarity of my expression (and also learn new things) by answering on two major AI/ML forums. You can find my responses [here][1] (Cross Validated StackExchange) and [here][2] (AI StackExchange).
 
