@@ -22,7 +22,7 @@ bio: Musings of a sports fanatic who happens to be interested in research.
 
 interests:
 - Medical Image Processing
-- Generative Models
+- Deep Generative Models
 - Bayesian Uncertainty Estimation
 
 education:
@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_new.pdf
+  link: files/resume_blog.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -75,11 +75,16 @@ social:
 
 [//]: # (I am a graduate student pursuing a Master’s degree in Electrical Engineering, specializing in medical imaging, at Ecole de Technologie Superieure (ETS), Montreal. My research interests include medical image processing and deep learning for medicine. I work on generative image modeling methods for the specific task of synthesizing medical images across different imaging modalities.)
 
-I am second year Master's student at the Biomedical Information Processing Lab (LATIS), Ecole de Technologie Superieure, Montreal. My research focuses on the application of unsupervised volume translation methods for generating 3D models of Scoliotic spines using generative adversarial networks (GANs). My broader goal is to make deep learning models better understandable and more interpretable for their application in real clinical settings. I believe that quantifying uncertainty through the mathematically principled Bayesian techniques could help in achieving that.
-
-Occasionally, I try to improve the clarity of my expression (and also learn new things) by answering on two major AI/ML forums. You can find my responses [here][1] (Cross Validated StackExchange) and [here][2] (AI StackExchange).
+I am second year Master's student at the Biomedical Information Processing Lab (LATIS) at École de Technologie Supérieure, Montréal. My research focuses on the application of deep generative modelling techniques for synthesizing medical images across different imaging modalities. I am also interested in Bayesian methods for machine learning, especially in uncertainty estimation. My greater goal is to make deep learning models more interpretable and explainable for their deployment in real clinical settings. I believe that quantifying uncertainty through the mathematically principled Bayesian techniques could help in achieving that.
 
 Outside of work, I am an avid sports fanatic and mostly follow all types of sports, with my favourite ones being football, cricket and tennis. I have been reading a lot of books lately, especially on behavioral economics. Please do reach out if you have any book recommendations!
 
-[1]: https://stats.stackexchange.com/users/271349/nagak
-[2]: https://ai.stackexchange.com/users/36971/nagak
+**UPDATE 14/2/21**: I am presenting my work on *Unsupervised 3D Segmentation of Scoliotic Spines* at the [SPIE Medical Imaging][2] Virtual Conference. Please check out our [preprint][1] and do reach out on Slack if you had some questions and want to discuss things over a (virtual) cup of coffee!
+
+[1]: https://arxiv.org/pdf/2011.14005.pdf
+[2]: https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1
+
+[//]: # (Occasionally, I try to improve the clarity of my expression (and also learn new things) by answering on two major AI/ML forums. You can find my responses [here][1] (Cross Validated StackExchange) and [here][2] (AI StackExchange). )
+
+[//]: # ([1]: https://stats.stackexchange.com/users/271349/nagak ) 
+[//]: # ([2]: https://ai.stackexchange.com/users/36971/nagak )
