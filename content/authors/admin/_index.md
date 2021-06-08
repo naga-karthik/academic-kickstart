@@ -77,9 +77,7 @@ social:
 
 I am second year Master's student at the Biomedical Information Processing Lab (LATIS) at École de Technologie Supérieure, Montréal. My research focuses on the application of deep generative modelling techniques for unsupervised synthesis of medical images across different imaging modalities and uncertainty estimation in unsupervised learning problems. My greater goal is to make deep learning models more interpretable and explainable for their deployment in real clinical settings. 
 
-Outside of work, I am an avid sports fanatic and mostly follow all types of sports, with my favourite ones being football, cricket and tennis. I have been reading a lot of books lately, especially on behavioral economics. Please do reach out if you have any book recommendations!
-
-**UPDATE 14/2/21**: I am presenting my work on *Unsupervised 3D Segmentation of Scoliotic Spines* at the [SPIE Medical Imaging][2] Virtual Conference. Please check out our [preprint][1]! 
+Outside of work, I am an avid sports fanatic and mostly follow football, cricket and formula 1. I am also interested in behavioral economics and like to keep myself updated with the latest in cryptocurrency. Hit me up if you have any book recommendations or just to talk crypto!
 
 [1]: https://arxiv.org/pdf/2011.14005.pdf
 [2]: https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1
