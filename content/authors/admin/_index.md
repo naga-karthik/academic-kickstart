@@ -1,6 +1,6 @@
 ---
 # Display name
-title: E M V Naga Karthik
+title: Naga Karthik Enamundram
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Intern
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/resume_blog.pdf
+  link: files/cv_blog.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -74,7 +74,8 @@ social:
 # - Visitors
 ---
 
-I am a Research Intern at the [NeuroPoly][1] Lab at Polytechnique Montréal and [MILA][3], where I'll be starting my Ph.D. this Fall. My current work focuses on developing deep learning-based methods for the segmentation of [Multiple Scelorosis][2] lesions from the magnetic resonance (MR) images of the brain and the spinal cord. My master's thesis work focused on the three-dimensional segmenation of [scoliotic spines][4] from MR volumes using deep generative modelling techniques for unsupervised synthesis and Bayesian uncertainty estimation in unsupervised learning settings. My greater goal is to make deep learning models more interpretable and explainable for their deployment in real clinical settings. 
+I am a first year Ph.D. student at the [NeuroPoly][1] Lab at Polytechnique Montréal and [MILA][3], supervised by [Prof. Julien Cohen-Adad][5] and [Prof. Sarath Chandar][6]. My current work focuses on developing deep learning-based methods for the segmentation of [Multiple Scelorosis][2] lesions from the magnetic resonance (MR) images of the brain and the spinal cord. The aim of my Ph.D. project is to develop continual learning methods for segmenting MS lesions across data gathered from multiple sites and centers over a period of time.  My master's thesis focused on the three-dimensional segmenation of [scoliotic spines][4] from MR volumes using deep generative modelling techniques for unsupervised synthesis and Bayesian uncertainty estimation in unsupervised learning settings. 
+<!-- My greater goal is to make deep learning models more interpretable and explainable for their deployment in real clinical settings. -->
 
 Outside of work, I am an avid sports fanatic and mostly follow football, cricket and formula 1. I am also interested in behavioral economics and like to keep myself updated with the latest in cryptocurrency. Hit me up if you have any book recommendations or just to talk crypto!
 
@@ -82,8 +83,12 @@ Outside of work, I am an avid sports fanatic and mostly follow football, cricket
 [2]: https://en.wikipedia.org/wiki/Multiple_sclerosis
 [3]: https://mila.quebec/en
 [4]: https://en.wikipedia.org/wiki/Scoliosis
+[5]: https://neuro.polymtl.ca/team/faculty/julien-cohen-adad.html
+[6]: http://sarathchandar.in/
 
-[//]: # (Occasionally, I try to improve the clarity of my expression (and also learn new things) by answering on two major AI/ML forums. You can find my responses [here][1] (Cross Validated StackExchange) and [here][2] (AI StackExchange). )
+<!-- (Occasionally, I try to improve the clarity of my expression (and also learn new things) by answering on two major AI/ML forums. You can find my responses [here][1] (Cross Validated StackExchange) and [here][2] (AI StackExchange). ) -->
 
-[//]: # ([1]: https://stats.stackexchange.com/users/271349/nagak ) 
-[//]: # ([2]: https://ai.stackexchange.com/users/36971/nagak )
+<!-- ([1]: https://stats.stackexchange.com/users/271349/nagak ) 
+([2]: https://ai.stackexchange.com/users/36971/nagak ) -->
+
+	
