@@ -77,9 +77,9 @@ social:
 I am a first year Ph.D. student at the [NeuroPoly][1] Lab at Polytechnique Montréal and [MILA][3], supervised by [Prof. Julien Cohen-Adad][5] and [Prof. Sarath Chandar][6]. My current work focuses on developing deep learning-based methods for the segmentation of [Multiple Scelorosis][2] lesions from the magnetic resonance (MR) images of the brain and the spinal cord. The aim of my Ph.D. project is to develop continual learning methods for segmenting MS lesions across data gathered from multiple sites and centers over a period of time.  My master's thesis focused on the three-dimensional segmenation of [scoliotic spines][4] from MR volumes using deep generative modelling techniques for unsupervised synthesis and Bayesian uncertainty estimation in unsupervised learning settings. 
 <!-- My greater goal is to make deep learning models more interpretable and explainable for their deployment in real clinical settings. -->
 
-Outside of work, I am an avid sports fanatic and mostly follow football, cricket and formula 1. I am also interested in behavioral economics and like to keep myself updated with the latest in cryptocurrency. Hit me up if you have any book recommendations or just to talk crypto!
+Outside of work, I am an avid sports fanatic and mostly follow football, cricket and formula 1. I am currently reading the book Dopamine Nation, by Dr. Anna Lembke, which gives a fascinating insight into how this neuromodulator called Dopamine and how it is vital to our being. I have also delved into podcasts lately and mostly listen to Tim Ferriss, Lex Fridman, Andrew Huberman, and Cal Newport (Deep work is all we need!). I'm always looking for new books/podcasts recommendations so feel free to hit me up if you have any! 
 
-[1]: https://neuropoly.gitbook.io/workspace/
+[1]: https://neuro.polymtl.ca
 [2]: https://en.wikipedia.org/wiki/Multiple_sclerosis
 [3]: https://mila.quebec/en
 [4]: https://en.wikipedia.org/wiki/Scoliosis
