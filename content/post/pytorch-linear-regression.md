@@ -6,10 +6,12 @@ reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: true  # Show comments?
+categories: ["PyTorch"]
 tags:
   - Machine Learning
   - PyTorch
   - Linear Regression
+  - 2019
 ---
 
 This is just a simple introduction to coding in PyTorch. We’ll build a two-dimensional linear regression model and see how the model performs by observing the graphs at the output. So, let’s begin!

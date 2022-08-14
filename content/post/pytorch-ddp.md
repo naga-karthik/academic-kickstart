@@ -6,10 +6,12 @@ reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: true  # Show comments?
+categories: ["PyTorch"]
 tags:
   - PyTorch
   - Parallel Processing
   - Distributed Training
+  - 2020
 ---
 
 This post is intended to serve as a comprehensive tutorial for training (very) deep and memory-intensive models using PyTorch’s parallel processing tools. My general observation about these official documentations is that they tell you ***how*** to run things, but when you stumble upon an error, you are on your own, hopping from GitHub's issues and StackExchange's frantic discussions in the hope of finding a quick-fix solution. It is precisely during these times I think that a "potential pitfalls" or "common errors" section (or even as an appendix) would do no harm and help save some precious time. I know this definitely sounds na&iuml;ve but hear me out, things do get complicated when it involves coordinating between multiple GPUs. Keeping that in mind, here is an outline for this post: I start by explaining some fundamentals of PyTorch’s parallel processing tools, namely the DataParallel and DistributedDataParallel packages that I learned during my own research. As an example, I have provided a working example for training a Resnet101 model on CIFAR10 dataset with 4 GPUs on a single node. Finally, I discuss the [commonly encountered errors/bugs](#potential-pitfalls-and-commonly-encountered-bugs) in a distributed training environment and some solutions for the same that worked for me (I really want this to be the take-away from this post!). Though not extensive, I have made a list of errors that I encountered and discuss the fixes. Although the example shown here is relatively simple, the same method can be applied to other applications involving NLP and generative modelling tasks also. Hope it helps!
