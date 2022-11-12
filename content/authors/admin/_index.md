@@ -74,10 +74,10 @@ social:
 # - Visitors
 ---
 
-I am a first year Ph.D. student at the [NeuroPoly][1] Lab at Polytechnique Montréal and [MILA][3], supervised by [Prof. Julien Cohen-Adad][5] and [Prof. Sarath Chandar][6]. My current work focuses on developing deep learning-based methods for the segmentation of [Multiple Scelorosis][2] lesions from the magnetic resonance (MR) images of the brain and the spinal cord. The aim of my Ph.D. project is to develop continual learning methods for segmenting MS lesions across data gathered from multiple sites and centers over a period of time.  My master's thesis focused on the three-dimensional segmenation of [scoliotic spines][4] from MR volumes using deep generative modelling techniques for unsupervised synthesis and Bayesian uncertainty estimation in unsupervised learning settings. 
-<!-- My greater goal is to make deep learning models more interpretable and explainable for their deployment in real clinical settings. -->
+I am a second year Ph.D. student at the [NeuroPoly][1] Lab at Polytechnique Montréal and [MILA][3], supervised by [Prof. Julien Cohen-Adad][5] and [Prof. Sarath Chandar][6]. My current work focuses on developing deep learning-based methods for the segmentation of [Multiple Scelorosis][2] lesions from the magnetic resonance (MR) images of the brain and the spinal cord. The aim of my Ph.D. project is to develop continual learning methods for segmenting MS lesions across data gathered from multiple sites and centers over a period of time.  
+<!-- My master's thesis focused on the three-dimensional segmenation of [scoliotic spines][4] from MR volumes using deep generative modelling techniques for unsupervised synthesis and Bayesian uncertainty estimation in unsupervised learning settings. -->
 
-Outside of work, I am an avid sports fanatic and mostly follow football/soccer and Formula 1. I like to read and mostly listen to podcasts by Tim Ferriss, Lex Fridman, Andrew Huberman, and Cal Newport. I'm always looking for new books/podcast recommendations so feel free to hit me up if you have any! 
+Outside of work, I am an avid sports fanatic and mostly follow football/soccer and Formula 1. I like to read and mostly listen to podcasts by Tim Ferriss, Andrew Huberman, and Cal Newport. I'm always looking for new books/podcast recommendations so feel free to hit me up if you have any! 
 
 [1]: https://neuro.polymtl.ca
 [2]: https://en.wikipedia.org/wiki/Multiple_sclerosis
