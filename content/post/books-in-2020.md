@@ -1,5 +1,5 @@
 ---
-title: 'List of Books Read in 2020'
+title: 'List of Books I Read in 2020'
 summary: A list of books I read in 2020 and my brief opinion on them. 
 date: "2022-08-13T18:00:00Z"
 show_date: true	# Show the page's date?
